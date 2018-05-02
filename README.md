@@ -7,4 +7,4 @@ Photo translation - powerful words and pictures translation from OCR camera, a b
 
 
 
-![](https://www.github.com/kuanliangg/Trans-Voice/master/1.png)
+![](https://github.com/kuanliangg/Trans-Voice/blob/master/1.png)
